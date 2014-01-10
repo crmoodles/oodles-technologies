@@ -1,4 +1,4 @@
 oodles-technologies
 ===================
 
-Oodles Technologies is company of digital marketing and technology services with focus on offering end-to-end  best solutions implemented using creative and pioneering technology .
+OodlesTechnologies is a Web and Mobile Development Services Providing Company in India expert in Grails,MongoDB,iOS,Android,Phonegap,Kaltura and Video Streaming
